@@ -5,6 +5,7 @@ let bgButton = document.querySelectorAll('button');
 //console.log(bgButton);
 
 Array.from(bgButton).forEach((calButton)=>{
+    
     //console.log(calButton);
 
     calButton.addEventListener("click", ()=>{
